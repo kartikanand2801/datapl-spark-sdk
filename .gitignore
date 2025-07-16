@@ -1,0 +1,60 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# PyCharm files
+.idea/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Test output
+htmlcov/
+.coverage
+coverage.xml
+*.cover
+.cache
+
+# Pytest
+.pytest_cache/
+
+# Temporary files
+*.bak
+*.tmp
+
+# Wheel files
+*.whl
+
+# Compiled C extensions
+*.so
+
+# PEP 582 (for pipx/pip)
+__pypackages__/
+
+# Spark temporary data
+.metastore_db/
+.derby-log
+
+# Local spark warehouse
+spark-warehouse/
